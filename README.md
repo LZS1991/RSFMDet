@@ -72,7 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find RSFMDet useful in your research, please consider citing:
 
 ```bibtex
-@article{rsfmdet2022,
+@article{rsfmdet2025,
   title={Foundation Model-based Auxiliary Framework for Object Detection in Aerial Remote Sensing Images},
   author={Wanjie Lu, Chaoyang Niu, Wei Liu, Tao Hu, Chaozhen Lan, and Shiju Wang},
   journal={<Journal Name>},
